@@ -1,0 +1,10 @@
+{
+    "solidity.linter": "solhint",
+    "solidity.solhintRules": {
+        "avoid-throw": false,
+        "avoid-suicide": "error",
+        "avoid-sha3": "warn",
+        "indent": ["warn", 2],
+        "separate-by-one-line-in-contract": false
+    }
+}
